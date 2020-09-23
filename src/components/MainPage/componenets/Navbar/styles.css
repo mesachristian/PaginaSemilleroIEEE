@@ -1,0 +1,23 @@
+.navbar {
+    width: 100%;
+    height: 60px;
+    background-image: linear-gradient(to right, #1d5bce , #09c240);
+    position: fixed;
+    top: 0;
+    z-index: 1;
+}
+
+.navbar_body {
+    float: right;
+    height: 100%;
+    align-items: center;
+}
+
+.items {
+    float: right;
+    height: 100%;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+}

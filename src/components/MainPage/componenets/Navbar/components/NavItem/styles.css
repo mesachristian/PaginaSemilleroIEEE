@@ -1,0 +1,30 @@
+.nav-item {
+    height: 100%;
+    float: right;
+    text-align: center;
+}
+  
+.nav-item-body {
+    margin-top: 1px;
+    height: 100%;
+    display: inline-block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+  
+.nav-item-body:hover:not(.active) {
+    background-color: #0d7a2e;
+}
+  
+.active {
+    margin-top: 1px;
+    height: 100%;
+    display: inline-block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    background-color: #0d7a2e;
+}

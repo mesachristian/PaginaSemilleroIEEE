@@ -1,0 +1,53 @@
+.main-header{
+    background: url("./resources/background.png");
+    background-position: center;
+    color: black;
+}
+
+.main-header-content{
+    width: 90%;
+    padding-top: 80px;
+    padding-bottom: 85px;
+    padding-left: 20px;
+    padding-right: 20px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.main-header-title{
+    text-align: center;
+    color: #1d5bce;
+    margin: 0;
+    font-size: 55px;
+}
+
+.main-header-body{
+    margin: 20px;
+    font-size: 20px;
+    text-justify: auto;
+    font-weight: 200;
+    font-size: 25px;
+}
+
+.objectives-header{
+    background: url("./resources/background.png");
+    background-position: center;
+    color: black;
+}
+
+.objectives-header-content{
+    width: 90%;
+    padding-top: 80px;
+    padding-bottom: 85px;
+    padding-left: 20px;
+    padding-right: 20px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.objectives-header-title{
+    text-justify: auto;
+    color: #1d5bce;
+    margin: 0;
+    font-size: 55px;
+}
