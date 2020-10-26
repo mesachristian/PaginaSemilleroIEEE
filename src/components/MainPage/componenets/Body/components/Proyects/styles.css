@@ -1,0 +1,13 @@
+.proyects{
+    display: inline-block;
+    align-items: center;
+    font-family: 'Source Sans Pro', sans-serif;
+}
+
+.proyects-title{
+    text-align: center;
+    color: rgb(8, 139, 107);
+    font-size: 80px;
+	margin-bottom: 30px;
+}
+

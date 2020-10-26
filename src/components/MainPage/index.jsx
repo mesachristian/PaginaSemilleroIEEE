@@ -13,7 +13,7 @@ class MainPage extends Component{
     render(){
 
         const navbarProps = {
-            appName : "SPS IEEE Javeriana",
+            appName : '',
             items : buildNavbarItems()
         };
 
